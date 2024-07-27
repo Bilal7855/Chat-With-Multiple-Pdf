@@ -24,5 +24,5 @@ This Streamlit application allows users to interact with multiple PDF files thro
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Bilal7855/English-Text-to-Sql-query-Converter.git
+   cd English-Text-to-Sql-query-Converter
